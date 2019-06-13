@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/cardview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/carouselView"
+        card_view:cardCornerRadius="12dp"
+        card_view:cardElevation="7dp"
+        card_view:cardMaxElevation="17dp"
+        card_view:contentPadding="7dp"
+        card_view:cardBackgroundColor="#eef7f6"
+        android:paddingBottom="40dp"
+        android:layout_marginBottom="12dp"
+        android:layout_gravity="center"
+        android:layout_weight="5">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="130dp"
+            android:layout_gravity="center">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/profile_image"
+                android:layout_width="wrap_content"
+                android:layout_height="96dp"
+                android:src="@drawable/profile_icon"
+                app:civ_border_color="#FF000000"
+                app:civ_border_width="2dp"
+                android:padding="0dp"
+                />
+
+            <TextView
+                android:id="@+id/tx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:text="Home"
+                android:textAlignment="center"
+                android:textAppearance="@android:color/black"
+                android:textColor="@android:color/black"
+                android:textSize="15dp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

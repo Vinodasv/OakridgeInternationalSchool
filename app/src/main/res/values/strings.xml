@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Oakridge</string>
+    <string name="student_id">Student Id</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="grade">Grade/Class</string>
+    <string name="age">Age</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="settings">SETTINGS</string>
+    <string name="title">TITLE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user">User</string>
+    <string name="about_us">
+
+             \n \t  \t Oakridge International School Bangalore is a massive breathtaking campus spread
+        across an area of 11 acres equipped with modern infrastructure and state-of-art amenities.Being an IB Continuum, Oakridge Bangalore offers world-class IB programs across grades.\n\n
+
+       \t  \t Located in the hi-tech hub of the country, the school features state-of-art
+        Indoor and Outdoor amenities - soccer ground, tennis courts, swimming pool , amphitheatre , digital Classrooms ,
+        learning resource centre with extensive collection of books/DVD’s , audio-visual rooms and Labs.
+        With its world-class faculty, progressive teaching methodology and wide-array of co-curricular programs,
+        Oakridge Bangalore provides the right
+        learning environment to nurture the ultimate Oakridge product- confident and active
+        learners with a strong individuality\n
+
+    </string>
+    <string name="Academics">
+        \n\t\t  World-class IB Programs
+        Oakridge Bangalore offers a range of high quality IB programs across grades.
+        These programs aim to help students develop the skills, knowledge and attitudes they need
+        to excel not only in their studies, but also in their personal growth.\n\n
+
+        \t\tOakridge has a Unique Integrated System of Learning using “inquiry” as a vehicle of learning.
+        This learning process is relevant and purposeful as the students are encouraged to explore,
+        gather, process, refine and present information.\n
+    </string>
+    <string name="Facilities">
+     \n  \t\t Global State-of-art Infrastructure
+Oakridge – Bangalore Campus provides a balanced environment focused on shaping the children to fit into the world of tomorrow. Designed on international standards and keeping in mind the multi-faceted needs of the children the school has spacious, airy classrooms with cutting-edge multimedia facilities. Children here gain hands-on-experience at par with the international standards of education
+
+\n\n \t\tMulti-facility Classrooms , State-of-the-art Laboratories , Auditorium ,
+        Infirmary and Learning Resource Centre are some of the indoor facilities offered.
+        While outdoor amenties include , Basketball and Tennis Courts , Cricket Ground , Skating Rink ,
+        Rock Climbing , Football Ground and Swimming Pool among others.\n
+
+
+
+    </string>
+    <string name="Admissions">
+      \n \t\t Join India  Best International School With its state-of- art infrastructure, world-class faculty,
+        International curriculum offerings and rich extra-curricular programs, Oakridge is equipped to create strong
+        confident individuals with a global perspective.\n\n
+
+\t\t The Admission Process at Oakridge is systematic, efficient and straight-forward for all applicants.
+        We urge you to visit our campus to experience our amenities and offerings first-hand.\n
+        Our Admissions Coordinator will gladly assist you and answer your questions during the tour.
+
+    </string>
+
+
+</resources>
